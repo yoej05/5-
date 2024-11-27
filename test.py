@@ -1,7 +1,2 @@
-print("Helo World")
-print("Helo World")
-print("Helo World")
-print("Helo World")
-print("Helo World")
-print("Helo World")
-print("Helo World")
+for i in range(1, 100):
+    print(i)
